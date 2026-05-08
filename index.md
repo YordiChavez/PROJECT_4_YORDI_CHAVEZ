@@ -22,7 +22,7 @@
   Everything is always better when done with others<br>
 
   
-  ![Help](IDEA120/Help.jpg)
+  ![Twinegame](Twinegame.png)
 
   School work can be very fullfilling after being completed<br>
   Oh wait... It never truly ends.
