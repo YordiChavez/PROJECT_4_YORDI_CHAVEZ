@@ -10,7 +10,7 @@
 
   School work is what students need to learn<br> 
   Collaboration is key to getting things done<br>
-  ![Flarf Poem](IDEA120/KidsDoingSchoolwork.jpg)
+  ![Flarf Poem](Flarfpoem.png)
 
   School work is very tiring and causes students to sleep<br>
   Why won't the school work ever end?<br>
